@@ -1,2 +1,2 @@
 # SoftUni-Courses
-Demo Repo
+Demo Repo for Software Technologies @ SoftUni - Stefka Ivanova
